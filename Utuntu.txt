@@ -1,0 +1,43 @@
+                        				 Utuntu pa zad
+is a an idea of a e commerce platform for sellers,dealers, suppliers and the customers meet and to business
+
+*this platform offers the chance for treader to aution their items
+*Sellers meet their suppliers at a competive business
+*Customers compair prices from a varity of sellers
+*Reputation building
+
+page layout
+
+*home page
+shows categoies
+-cars
+  when clicked
+  Dealers
+
+-rents/lences
+
+       when clicked
+     House on rent
+   house for sell
+   shops for rent
+   land for sale
+
+ -food
+   when clicked
+
+   sellers
+   suppliers
+
+-services
+  when clicked
+
+   home services
+  Car services 
+  health
+  events
+   -caterihg
+   -car hire
+  -venue
+
+
+
